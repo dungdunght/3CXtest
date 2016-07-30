@@ -1,5 +1,6 @@
 # 3CXtest : Make call to call-center after test-web
 Required: Installed 3CX phone system with fully account, which add voIP operator (SIP trunk) 
+
 1. Install 3CX Softphone v14, download here: http://downloads.3cx.com/downloads/3CXPhoneforWindows14.msi
 2. Run project CallTriggerCmdPlugin by Microsoft Visual Studio, this project will generate 3 binaries:
 

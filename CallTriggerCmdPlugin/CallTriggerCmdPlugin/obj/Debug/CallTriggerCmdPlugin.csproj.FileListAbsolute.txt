@@ -1,0 +1,5 @@
+C:\BinRepo\dotNET\x86\Debug\3CXPhoneWindows8\CallTriggerCmdPlugin.dll
+C:\BinRepo\dotNET\x86\Debug\3CXPhoneWindows8\CallTriggerCmdPlugin.pdb
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\CallTriggerCmdPlugin\obj\Debug\CallTriggerCmdPlugin.csprojResolveAssemblyReference.cache
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\CallTriggerCmdPlugin\obj\Debug\CallTriggerCmdPlugin.dll
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\CallTriggerCmdPlugin\obj\Debug\CallTriggerCmdPlugin.pdb

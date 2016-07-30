@@ -1,0 +1,6 @@
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\bin\Debug\CallTriggerCmd.exe.config
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\bin\Debug\CallTriggerCmd.exe
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\bin\Debug\CallTriggerCmd.pdb
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\CallTriggerCmd\obj\x86\Debug\CallTriggerCmd.csprojResolveAssemblyReference.cache
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\CallTriggerCmd\obj\x86\Debug\CallTriggerCmd.exe
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\CallTriggerCmd\obj\x86\Debug\CallTriggerCmd.pdb

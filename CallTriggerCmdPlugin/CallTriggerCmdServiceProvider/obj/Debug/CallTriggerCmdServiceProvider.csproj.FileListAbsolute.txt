@@ -1,0 +1,4 @@
+C:\BinRepo\dotNET\x86\Debug\3CXPhoneWindows8\CallTriggerCmdServiceProvider.dll
+C:\BinRepo\dotNET\x86\Debug\3CXPhoneWindows8\CallTriggerCmdServiceProvider.pdb
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\CallTriggerCmdServiceProvider\obj\Debug\CallTriggerCmdServiceProvider.dll
+C:\Users\НгуенДиньЗунг\Downloads\Compressed\CallTriggerCmdPlugin\CallTriggerCmdServiceProvider\obj\Debug\CallTriggerCmdServiceProvider.pdb

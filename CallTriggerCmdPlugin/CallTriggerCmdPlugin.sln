@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallTriggerCmd", "CallTriggerCmd\CallTriggerCmd.csproj", "{2F746D94-DD8D-411B-A50E-159FD798637B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallTriggerCmdPlugin", "CallTriggerCmdPlugin\CallTriggerCmdPlugin.csproj", "{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallTriggerCmdServiceProvider", "CallTriggerCmdServiceProvider\CallTriggerCmdServiceProvider.csproj", "{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Debug|x86.ActiveCfg = Debug|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Debug|x86.Build.0 = Debug|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Release|Any CPU.ActiveCfg = Release|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Release|x86.ActiveCfg = Release|x86
+		{2F746D94-DD8D-411B-A50E-159FD798637B}.Release|x86.Build.0 = Release|x86
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BD1BA8A9-EFA7-47A6-B0DD-FE1C21710438}.Release|x86.ActiveCfg = Release|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C8FB83F4-8A44-4098-89AB-FCDC4BCB8E4C}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

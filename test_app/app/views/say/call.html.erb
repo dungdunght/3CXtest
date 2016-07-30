@@ -1,0 +1,10 @@
+<%= form_tag(say_get_path, :method=>'get') do %>
+ <p>
+   Telephone:<br />
+   <%= text_field_tag :foo %>
+ </p>
+ 
+ <p>
+   <%= submit_tag 'Call' %>
+ </p>
+<% end %>

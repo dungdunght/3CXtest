@@ -21,7 +21,7 @@ Required: Installed 3CX phone system with fully account, which add voIP operator
     
     c. On startup, 3CXPhone for Windows will load the new plugin.
     
-    d. Open a command prompt window and go to the 3CX Phone for Windows installation directory and type in the following command:
+    d. If you want to makecall to anyone,open a command prompt window and go to the 3CX Phone for Windows installation directory and type in the following command:
         CallTriggerCmd.exe -cmd makecall:DESTINATION_NUMBER
 
 5. Run test_app(wrote by Ruby) on Rails. Get the link localhost/say/call on browser to enter beta-web. 
